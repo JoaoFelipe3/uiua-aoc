@@ -1,0 +1,1 @@
+This is a catalog of my AOC solutions that I made in Uiua.
