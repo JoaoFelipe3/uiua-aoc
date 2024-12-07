@@ -15,4 +15,4 @@ Part₂ ← (
   /+
 )
 
-Part₂ Input
+⊃Part₁ Part₂ Input
