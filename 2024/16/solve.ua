@@ -19,4 +19,4 @@ Part₁ ← Solve!◌
 
 Part₂ ← Solve!(⧻◴≡↘₁/◇⊂⊙◌)
 
-Part₂ Input
+⊃Part₁ Part₂ Input
